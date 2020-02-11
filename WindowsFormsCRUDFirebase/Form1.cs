@@ -77,5 +77,20 @@ namespace WindowsFormsCRUDFirebase
 
             MessageBox.Show("Data Retrieved Successfully"); 
         }
+
+        private async void button3_Click(object sender, EventArgs e)
+        {
+            var data = new Data
+            {
+                ID = textBox1.Text,
+                Name = textBox2.Text,
+                Address = textBox3.Text,
+                Age = textBox4.Text,
+            };
+            FirebaseResponse response = await client.UpdateTaskAsync("Information/" + textBox1.Text, data);
+            Data result = response.ResultAs<Data>();
+            MessageBox.Show("Message update at ID:"+result.ID);
+
+        }
     }
 }
