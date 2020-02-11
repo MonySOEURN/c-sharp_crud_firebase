@@ -64,5 +64,18 @@ namespace WindowsFormsCRUDFirebase
 
             MessageBox.Show("data inserted" + result.ID);
         }
+
+        private async void button2_Click(object sender, EventArgs e)
+        {
+            FirebaseResponse response = await client.GetTaskAsync("Information/"+ textBox1.Text);
+            Data obj = response.ResultAs<Data>();
+
+            textBox1.Text = obj.ID;
+            textBox2.Text = obj.Name;
+            textBox3.Text = obj.Address;
+            textBox4.Text = obj.Age;
+
+            MessageBox.Show("Data Retrieved Successfully"); 
+        }
     }
 }
