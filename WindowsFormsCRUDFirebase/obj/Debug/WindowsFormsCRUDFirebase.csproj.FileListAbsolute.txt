@@ -1,0 +1,16 @@
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\obj\Debug\WindowsFormsCRUDFirebase.csprojAssemblyReference.cache
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\obj\Debug\WindowsFormsCRUDFirebase.Form1.resources
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\obj\Debug\WindowsFormsCRUDFirebase.Properties.Resources.resources
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\obj\Debug\WindowsFormsCRUDFirebase.csproj.GenerateResource.cache
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\WindowsFormsCRUDFirebase.exe.config
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\WindowsFormsCRUDFirebase.exe
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\WindowsFormsCRUDFirebase.pdb
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\FireSharp.dll
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\RestSharp.dll
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\bin\Debug\RestSharp.xml
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\obj\Debug\WindowsFormsCRUDFirebase.csproj.CopyComplete
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\obj\Debug\WindowsFormsCRUDFirebase.exe
+C:\Users\pc-ssss\Desktop\WindowsFormsCRUDFirebase\WindowsFormsCRUDFirebase\obj\Debug\WindowsFormsCRUDFirebase.pdb
